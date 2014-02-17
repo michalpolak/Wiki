@@ -1,0 +1,4 @@
+sample-docs
+===========
+
+Sample documentation
